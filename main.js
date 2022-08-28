@@ -49,7 +49,8 @@ const main = async () => {
         { name: toLowerLine('marryDay'), value: marryDay, color: getColor() },
         { name: toLowerLine('birthdayMessage'), value: birthdayMessage, color: getColor() },
         { name: toLowerLine('noteEn'), value: noteEn, color: getColor() },
-        { name: toLowerLine('noteCh'), value: noteCh, color: getColor() },
+        { name: toLowerLine('noteCh'), value: noteCh, color: getColor() },        
+        { name: toLowerLine('ewai'), value: ewai, color: getColor() },
     ]
     // 公众号推送消息
     users.forEach(async user => {

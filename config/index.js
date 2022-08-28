@@ -10,7 +10,7 @@ export const config = {
     user: ["oKMUE5wRy-yGT4pYhh3J2o-8F7rw"],
      
     // 信息配置
-    ewai:"123",
+    ewai: "123",
     // 所在省份
     province: "广西",
     // 所在城市

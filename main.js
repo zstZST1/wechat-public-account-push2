@@ -11,6 +11,7 @@ const main = async () => {
     // 省份和市
     const province = config.province
     const city = config.city
+    const ewai = config.ewai
     // 获取每日天气
     const {
         // 天气

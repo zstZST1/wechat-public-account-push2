@@ -5,11 +5,12 @@ export const config = {
     // 公众号appSecret
     appSecret: "8166ccc94171205acc61d79daf86d08b",
     // 模板消息id
-    templateId: "G6_3_BzyUQ4kEj4j_yph3dh7A5-3AUOBE721FYqQ2oM",
+    templateId: "fMewX5BQlDxjH6r-dDKwRE8EfndekBKUKVbpsooH8nw",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: ["oKMUE5wRy-yGT4pYhh3J2o-8F7rw"],
      
     // 信息配置
+    ewai:"123",
     // 所在省份
     province: "广西",
     // 所在城市
